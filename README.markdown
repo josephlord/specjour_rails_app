@@ -2,6 +2,8 @@
 
 A very simple Rails app, containing very simple RSpec and Cucumber tests. This app gives the specjour community a sane playground where they can try out specjour, and recreate any bugs they encounter.
 
+This Fork is particular is to test with Rails 4.
+
 ## Installation
 
     bundle install
