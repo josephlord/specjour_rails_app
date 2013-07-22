@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 4.0.0'
 gem 'sqlite3'
+gem 'activeresource', '~> 4.0.0'
+gem 'protected_attributes'
 
 group :assets do
   gem 'sass-rails',   '~> 4.0.0'
